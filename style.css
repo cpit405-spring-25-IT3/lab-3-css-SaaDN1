@@ -1,0 +1,13 @@
+.image-preview img {
+    border-top: 30px solid skyblue;
+    border-bottom: 30px solid lightgreen;
+    border-left: 30px solid #ffefd5;
+    border-right: 30px solid lightpink;
+}
+
+table {
+    border-collapse: collapse;
+    width: 30%;
+    text-align: center;
+}
+
